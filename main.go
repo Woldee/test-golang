@@ -15,6 +15,6 @@ func main() {
 		sumAll += value
 		fmt.Print(sumAll, " --> ")
 	}
-	fmt.Println("\nИтого: ", sumAll)
+	fmt.Println("\nИтогоооо: ", sumAll)
 
 }
